@@ -1,6 +1,5 @@
 body {
-    width: 50%;
-    margin: auto;
+    margin: auto 24px;
     font-family: Arial, sans-serif;
 }
 
@@ -9,8 +8,8 @@ h2 {
 }
 
 table {
-    border-collapse: collapse;
     margin: 20px auto;
+    border-collapse: collapse;
 }
 
 td {
